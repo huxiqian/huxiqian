@@ -18,7 +18,7 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.elong.app</string>
+				<string>com.elong.hotel</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
